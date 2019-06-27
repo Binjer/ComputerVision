@@ -1,0 +1,2 @@
+https://github.com/davidsandberg/facenet
+Pre-trained models中下载后解压到该文件夹
