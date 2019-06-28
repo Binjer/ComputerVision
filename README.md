@@ -13,6 +13,7 @@
 #### 2.WIDER FACE：是目前业界公开的数据规模最大(约40万人脸标注)、检测难度最高的人脸检测数据集之一。数据集中人脸尺寸大小变化、拍照角度引起的人脸姿态变化、人脸遮挡、化妆、光照等多种因素，给人脸检测带来了极大的挑战。下载地址：http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
 #### 3.LFW:无约束自然场景人脸识别数据集，该数据集由13000多张全世界知名人士互联网自然场景不同朝向、表情和光照环境人脸图片组成，共有5000多人，其中有1680人有2张或2张以上人脸图片。每张人脸图片都有其唯一的姓名ID和序号加以区分。下载地址：http://vis-www.cs.umass.edu/lfw/index.html#download
 #### 4.CelebA：包含10177个名人身份的202599张图片，并且都做好了特征标记（5个特征点）。下载地址：http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+#### 5.AFLW：25993幅图像,每个人标定21个关键点。下载地址：http://neerajkumar.org/databases/lfpw/
 
 ### 其它：深度学习数据集收集网站：http://deeplearning.net/datasets/
 
